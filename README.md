@@ -1,9 +1,3 @@
-<!-- - 👋 Hi, I’m @snerz13
-- 👀 I’m interested in CP, Development
-- 🌱 I’m currently learning C++ and Flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - just hit me in the mailbox -->
-
 <h1 align="middle"> Hey there!👋🏻, I'm Jash Desai !! </h1>
 
 <p align="middle"> <img src="https://komarev.com/ghpvc/?username=jash-desai&label=Profile%20views&color=ff4da6&style=plastic" alt="jash-desai" /> </p>
@@ -55,16 +49,16 @@
 [![Spotify -](https://spotify-github-profile.vercel.app/api/view?uid=vvghoq1frj9jgqpgne20hkoo9&cover_image=true&theme=novatorem)](https://open.spotify.com/user/vvghoq1frj9jgqpgne20hkoo9)
 
 
-#### Why not play a game of Tic-Tac-Toe while you're here!
+<h3 align="middle">Why not play a game of Tic-Tac-Toe while you're here!</h3>
 Click on a Tile to play  
 The most picked move is chosen every minute.
 
-Current turn: <img src= "https://github.com/jash-desai/jash-desai/blob/master/assets/False.png" alt="Current Turn" width="32"/>
+Current turn: <img src= "https://github.com/snerz13/snerz13/blob/master/assets/False.png" alt="Current Turn" width="32"/>
 
 
-| [![Tile 0](https://github.com/jash-desai/jash-desai/blob/master/assets/False.png)](https://github.com/jash-desai) | [![Tile 1](https://github.com/jash-desai/jash-desai/blob/master/assets/True.png)](https://github.com/jash-desai) | [![Tile 2](https://github.com/jash-desai/jash-desai/blob/master/assets/None.png)](https://cntr.click/0Jy1NdB) |
-| [![Tile 3](https://github.com/jash-desai/jash-desai/blob/master/assets/None.png)](https://cntr.click/y4BYk8p) | [![Tile 4](https://github.com/jash-desai/jash-desai/blob/master/assets/True.png)](https://github.com/jash-desai) | [![Tile 5](https://github.com/jash-desai/jash-desai/blob/master/assets/None.png)](https://cntr.click/b0a0hMb) |
-| [![Tile 6](https://github.com/jash-desai/jash-desai/blob/master/assets/None.png)](https://cntr.click/sGaY2s4) | [![Tile 7](https://github.com/jash-desai/jash-desai/blob/master/assets/None.png)](https://cntr.click/5B5pmVK) | [![Tile 8](https://github.com/jash-desai/jash-desai/blob/master/assets/False.png)](https://github.com/jash-desai) |
+| [![Tile 0](https://github.com/snerz13/snerz13/blob/master/assets/False.png)](https://github.com/snerz13) | [![Tile 1](https://github.com/sner13/sner13/blob/master/assets/True.png)](https://github.com/sner13) | [![Tile 2](https://github.com/sner13/sner13/blob/master/assets/None.png)](https://cntr.click/0Jy1NdB) |
+| [![Tile 3](https://github.com/snerz13/snerz13/blob/master/assets/None.png)](https://cntr.click/y4BYk8p) | [![Tile 4](https://github.com/snerz13/snerz13/blob/master/assets/True.png)](https://github.com/snerz13) | [![Tile 5](https://github.com/snerz13/snerz13/blob/master/assets/None.png)](https://cntr.click/b0a0hMb) |
+| [![Tile 6](https://github.com/snerz13/snerz13/blob/master/assets/None.png)](https://cntr.click/sGaY2s4) | [![Tile 7](https://github.com/snerz13/snerz13/blob/master/assets/None.png)](https://cntr.click/5B5pmVK) | [![Tile 8](https://github.com/snerz13/snerz13/blob/master/assets/False.png)](https://github.com/snerz13) |
 
 </br>
 
