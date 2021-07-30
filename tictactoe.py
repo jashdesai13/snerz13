@@ -102,9 +102,9 @@ def update_readme(game_state, winner):
     tile_content = {}
     for tile in range(9):
         if game_state['tiles'][f'Tile {tile}'] is None:
-            tile_content[f"Tile {tile}"] = f"[![Tile {tile}](https://github.com/jash-desai/jash-desai/blob/main/assets/{game_state['tiles'][f'Tile {tile}']}.png)]({LINKS[f'Tile {tile}']})"
+            tile_content[f"Tile {tile}"] = f"[![Tile {tile}](https://github.com/snerz13/snerz13/blob/main/assets/{game_state['tiles'][f'Tile {tile}']}.png)]({LINKS[f'Tile {tile}']})"
         else:
-            tile_content[f"Tile {tile}"] = f"[![Tile {tile}](https://github.com/jash-desai/jash-desai/blob/main/assets/{game_state['tiles'][f'Tile {tile}']}.png)](https://github.com/jash-desai)"
+            tile_content[f"Tile {tile}"] = f"[![Tile {tile}](https://github.com/snerz13/snerz13/blob/main/assets/{game_state['tiles'][f'Tile {tile}']}.png)](https://github.com/snerz13)"
 
     README = f"""<h1 align="middle"> Hey there!👋🏻, I'm Jash Desai !! </h1>
 
