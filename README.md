@@ -56,7 +56,7 @@ The most picked move is chosen every minute.
 Current turn: <img src= "https://github.com/snerz13/snerz13/blob/master/assets/False.png" alt="Current Turn" width="32"/>
 
 
-| [![Tile 0](https://github.com/snerz13/snerz13/blob/master/assets/False.png)](https://github.com/snerz13) | [![Tile 1](https://github.com/sner13/sner13/blob/master/assets/True.png)](https://github.com/sner13) | [![Tile 2](https://github.com/sner13/sner13/blob/master/assets/None.png)](https://cntr.click/0Jy1NdB) |
+| [![Tile 0](https://github.com/snerz13/snerz13/blob/master/assets/False.png)](https://github.com/snerz13) | [![Tile 1](https://github.com/snerz13/snerz13/blob/master/assets/True.png)](https://github.com/snerz13) | [![Tile 2](https://github.com/snerz13/snerz13/blob/master/assets/None.png)](https://cntr.click/0Jy1NdB) |
 | [![Tile 3](https://github.com/snerz13/snerz13/blob/master/assets/None.png)](https://cntr.click/y4BYk8p) | [![Tile 4](https://github.com/snerz13/snerz13/blob/master/assets/True.png)](https://github.com/snerz13) | [![Tile 5](https://github.com/snerz13/snerz13/blob/master/assets/None.png)](https://cntr.click/b0a0hMb) |
 | [![Tile 6](https://github.com/snerz13/snerz13/blob/master/assets/None.png)](https://cntr.click/sGaY2s4) | [![Tile 7](https://github.com/snerz13/snerz13/blob/master/assets/None.png)](https://cntr.click/5B5pmVK) | [![Tile 8](https://github.com/snerz13/snerz13/blob/master/assets/False.png)](https://github.com/snerz13) |
 
