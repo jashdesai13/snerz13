@@ -10,6 +10,13 @@
 <!-- - 👯 I’m looking to collaborate on 
 <!-- - 💬 Ask me about -->
 
+<p>
+  
+  [go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+  
+</p>
+
+
 <h3> Connect with me: </h3>
 <a href="https://www.linkedin.com/in/jade13/">
   <img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/linkedin.svg" />
